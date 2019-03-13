@@ -81,5 +81,14 @@
 
 	<build>
 		<finalName>NotesApp</finalName>
+		<plugins>
+      <!-- [START cloudplugin] -->
+      <plugin>
+        <groupId>com.google.cloud.tools</groupId>
+        <artifactId>appengine-maven-plugin</artifactId>
+        <version>1.3.1</version>
+      </plugin>
+      <!-- [END cloudplugin] -->
+    </plugins>
 	</build>
 </project>
