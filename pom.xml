@@ -9,6 +9,16 @@
 	<name>NotesApp Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 	<properties>
+		
+<properties>
+  <INSTANCE_CONNECTION_NAME>notesapp7:asia-east2:notesapp-db</INSTANCE_CONNECTION_NAME>
+  <user>root</user>
+  <password>root</password>
+  <database>notesapp-db</database>
+</properties>
+		
+		
+		
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<spring.version>4.3.2.RELEASE</spring.version>
 		<junit.version>4.12</junit.version>
