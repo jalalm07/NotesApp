@@ -1,0 +1,16 @@
+com\jalal\service\NotesServiceImpl.class
+com\jalal\service\UserService.class
+com\jalal\model\Login.class
+com\jalal\model\Notes.class
+com\jalal\dao\NotesDao.class
+com\jalal\dao\NotesDaoImpl$NoteMapper.class
+com\jalal\controller\NotesController.class
+com\jalal\dao\NotesDaoImpl.class
+com\jalal\dao\UserDao.class
+com\jalal\model\User.class
+com\jalal\service\NotesService.class
+com\jalal\controller\RegistrationController.class
+com\jalal\service\UserServiceImpl.class
+com\jalal\controller\LoginController.class
+com\jalal\dao\UserMapper.class
+com\jalal\dao\UserDaoImpl.class
